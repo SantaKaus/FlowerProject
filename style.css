@@ -1,0 +1,13 @@
+nav
+{
+   background-color: white;
+   transition-duration: 2s;
+}
+a{
+    transition-duration: 2s;
+}
+a:hover
+{
+    transform: scale(1.1);
+}
+
